@@ -44,9 +44,6 @@ function displayMovieDetails(movie) {
     movieInfo.innerHTML = movieLIItems.join('')
 }
 
-//function display
-
-//function displaystuff
 
 
 })

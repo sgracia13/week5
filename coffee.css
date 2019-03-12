@@ -1,0 +1,28 @@
+.button {
+    justify-items: center;
+    padding: 50px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 25px;
+    color:grey;
+}
+
+.title {
+    padding: 20px;
+    justify-content: center;
+    color: grey;
+}
+
+.body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+
+}
+
+.orderList {
+    background-color: brown;
+    color: whitesmoke;
+   
+}
